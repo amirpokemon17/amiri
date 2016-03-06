@@ -208,21 +208,22 @@ function create_config( )
   config = {
     enabled_plugins = {
 	  "anti_spam",
-	  "delete",
-	  "leave",
-      "block",
+	  "del",
+	  "leave"‘‚
 	  "ingroup",
 	  "inrealm",
 	  "plugins",
 	  "bots",
 	  "insuper",
-	  "idrep",
+	  "idfrom",
 	  "me",
 	  "pass",
 	  "mute",
 	  "stats",
 	  "invite",
-      "id" },
+          "plugins"‚
+          "id"
+     },
     sudo_users = {tonumber(our_id),80182995},
     disabled_channels = {},
 	realms = {},
