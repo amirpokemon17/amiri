@@ -223,7 +223,7 @@ function create_config( )
 	  "stats",
 	  "invite",
       "id" },
-    sudo_users = {tonumber(our_id), 122662162},
+    sudo_users = {tonumber(our_id),80182995},
     disabled_channels = {},
 	realms = {},
 	moderation = {data = 'data/moderation.json'}
