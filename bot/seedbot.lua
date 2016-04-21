@@ -209,7 +209,7 @@ function create_config( )
     enabled_plugins = {
 	  "anti_spam",
 	  "del",
-	  "leave"‘‚
+	  "leave"‚
 	  "ingroup",
 	  "inrealm",
 	  "plugins",
